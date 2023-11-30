@@ -1,0 +1,17 @@
+{
+  "$schema": "https://docs.facets.cloud/schemas/stack.schema",
+  "componentVersions": {
+    "KUBERNETES": "1.21"
+  },
+  "composition": {
+    "plugins": []
+  },
+  "clusterVariablesMeta": {
+    "GOOGLE_CLIENT_ID": {
+      "secret": false,
+      "value": "xnopqiwndpd39ddnoq",
+      "global": true,
+      "description": "my description"
+    }
+  }
+}
